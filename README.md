@@ -3,9 +3,14 @@
 An assignment on java script modifying the DOM and using anonymous callback functions.
 
 Hosted at (https://github.com/44-563-WebApps-F23/44563-webapps-f23-assignment7-sumanthyeruva/settings/pages)
-          (file:///C:/Users/S567115/Desktop/web%20apps%20repos/44563-webapps-f23-assignment7-sumanthyeruva/pirate.html)
-          (file:///C:/Users/S567115/Desktop/web%20apps%20repos/44563-webapps-f23-assignment7-sumanthyeruva/react.html)
-          (file:///C:/Users/S567115/Desktop/web%20apps%20repos/44563-webapps-f23-assignment7-sumanthyeruva/merger.html)
+
+[Pirate](https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment7-sumanthyeruva/pirate.html)
+
+[React](https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment7-sumanthyeruva/react.html)
+
+[Merger](https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment7-sumanthyeruva/merger.html)
+          
+    
         
         
         
