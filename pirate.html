@@ -75,7 +75,7 @@
             <img class="img-game"  id="img25" src="file:///C:/Users/S567115/Pictures/Saved%20Pictures/map.jpeg" alt="location" height="50px" width="50px" onclick="check(24)">
         </div>
         <p id="Result"></p>
-
+        <p><input type="button" class="btn btn-warning" value="New Game" onClick="refresh(this)"></p>
         <script>
             const ids=[
             "img1",
@@ -114,8 +114,8 @@
             var checkCount= 0;
             var penalty= 0;
             var lastCheck= 0;
-            var treasureLocation= 5;
-            var trapLocation=18;
+            var treasureLocation= Math.floor(Math.random()*(24-0)-0);
+            var trapLocation=Math.floor(Math.random()*(24-0)-0);
             var gameOver= false;
             function check(position)
             {
@@ -187,6 +187,9 @@
             document.getElementById("penalty").textContent = "Penalty: " + penalty;
             document.getElementById("help").textContent = helpMessage;
             }
+            function refresh(){
+            window.location.reload("Refresh")
+        }
             
         </script>
     </body>
